@@ -1,0 +1,12 @@
+#btnGroup {
+    display: flex;
+    justify-content: space-between;
+}
+
+.winner {
+    color: green;
+}
+
+.looser {
+    color: red;
+}
